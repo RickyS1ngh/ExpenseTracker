@@ -4,10 +4,12 @@ Simple Expense Tracking App that allows users to log and manage their expenses.
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/10d7c38b-ea3b-4fe1-8f99-6a1bed547b7a" width="300" />
-<img src="https://github.com/user-attachments/assets/273b3ae4-4114-464b-8544-8078e93bd04b" width="300" />
-<img src="https://github.com/user-attachments/assets/f2546aad-67cb-44c1-9ff5-6e734ef1b870" width="300" />
+<img src="https://github.com/user-attachments/assets/d3db57ff-046e-49b8-8fce-785ffb1a696d" width="300" />
+<img src="https://github.com/user-attachments/assets/d9052e05-f3b7-4d17-8aae-dcc216d095e3" width="300" />
+<img src="https://github.com/user-attachments/assets/f2f94da5-f765-4660-ad88-2853d0a178d0" width="300" />
+<img src="https://github.com/user-attachments/assets/00051d68-1eef-4860-a372-c1127a8d2e06" width="300" />
 
 ## Demo
 
-<img src="https://github.com/user-attachments/assets/6c91528a-68b0-4572-9d42-fafb46c3fb96" width="300" />
+<img src="https://github.com/user-attachments/assets/41b86dcc-67d7-4b44-bf03-33b4f9643cf6" width="300" />
+
